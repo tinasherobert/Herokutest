@@ -3,7 +3,7 @@
 <title>This is just a test</title>
 <body>
 <?php
-echo "This is just a test " ;
+echo "Page rama Tsaga Chete chete :" ;
 ?>
 </body>
 </html>
